@@ -1,7 +1,3 @@
-## Introduction
-
-Trend Vision One™ Tools
-
 ## Documentation
 
 Documentation will be updated upon release in folder for the corresponding tool(s)
