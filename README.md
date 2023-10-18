@@ -1,6 +1,6 @@
 ## Introduction
 
-Trend Vision One™ Tools presents available plug-ins for use within your Trend Vision One coding.
+Trend Vision One™ Tools presents available plug-ins for developing Trend Vision One tools and custom tools designed by fellow Vision One users.
 
 ## Documentation
 
