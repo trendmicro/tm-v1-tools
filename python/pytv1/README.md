@@ -1,8 +1,8 @@
 ## PyTV1: Python Library for Trend Vision One
-[![Build](https://github.com/TrendATI/pytmv1/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/TrendATI/pytmv1/actions/workflows/build.yml)
-[![Lint](https://github.com/TrendATI/pytmv1/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/TrendATI/pytmv1/actions/workflows/lint.yml)
-[![Test](https://github.com/TrendATI/pytmv1/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/TrendATI/pytmv1/actions/workflows/test.yml)
-[![Coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Ft0mz06%2F6c39ef59cc8beb9595e91fc96793de5b%2Fraw%2Fcoverage.json)](https://github.com/TrendATI/pytmv1/actions/workflows/coverage.yml)
+[![Build](https://github.com/trendmicro/tm-v1-tools/actions/workflows/build.yml/badge.svg?branch=main)](https://github.com/trendmicro/tm-v1-tools/actions/workflows/build.yml)
+[![Lint](https://github.com/trendmicro/tm-v1-tools/actions/workflows/lint.yml/badge.svg?branch=main)](https://github.com/trendmicro/tm-v1-tools/actions/workflows/lint.yml)
+[![Test](https://github.com/trendmicro/tm-v1-tools/actions/workflows/test.yml/badge.svg?branch=main)](https://github.com/trendmicro/tm-v1-tools/actions/workflows/test.yml)
+[![Coverage](https://img.shields.io/endpoint?url=https%3A%2F%2Fgist.githubusercontent.com%2Ft0mz06%2F6c39ef59cc8beb9595e91fc96793de5b%2Fraw%2Fcoverage.json)](https://github.com/trendmicro/tm-v1-tools/actions/workflows/coverage.yml)
 [![Pypi: version](https://img.shields.io/pypi/v/pytmv1)](https://pypi.org/project/pytmv1)
 [![Downloads](https://pepy.tech/badge/pytmv1)](https://pepy.tech/project/pytmv1)
 [![Python: version](https://img.shields.io/pypi/pyversions/pytmv1)](https://pypi.org/project/pytmv1)
