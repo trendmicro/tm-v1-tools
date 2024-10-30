@@ -39,3 +39,5 @@ Insightful: Offers valuable insights into the security landscape, helping organi
 
 # Security Note:
 Users are advised to handle API tokens securely and know the security implications of storing tokens locally. Always follow the principle of least privilege and ensure that tokens are accessible only to authorized individuals.
+
+Created by Alejandro Ortiz (Sales Enginneer)
